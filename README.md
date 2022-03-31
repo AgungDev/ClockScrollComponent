@@ -17,7 +17,7 @@ allprojects {
 and dapedency
 ```java
 dependencies {
-        implementation 'com.github.AgungDev:ClockScrollComponent:Tag'
+        implementation 'com.github.AgungDev:ClockScrollComponent:1.0'
 }
 ```
 
